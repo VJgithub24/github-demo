@@ -1,2 +1,3 @@
-# github-demo
-git and github/YouTube
+# GitHub-demo
+git and GitHub/YouTube
+Author - vaishnavi
